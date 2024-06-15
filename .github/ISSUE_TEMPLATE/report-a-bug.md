@@ -22,7 +22,7 @@ Messy Mod version:[put your Messy Mod version in here]
 Put your Minecraft logs in here(log path:`[Minecraft Path]\logs\latest.log`):
 
 ---
-<!-- "- [*]" is correct -->
+<!-- "- [x]" is correct -->
 - [ ] I am sure this bug isn't reported.
 - [ ] I am sure this is Messy Mod's bug,not other mod or Minecraft's bug.
 - [ ] I am sure this bug isn't on Modrinth's Description Page.

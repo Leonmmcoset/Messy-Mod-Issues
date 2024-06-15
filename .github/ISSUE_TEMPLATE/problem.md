@@ -16,5 +16,5 @@ Mod Loader's name:[put your mod loader's name in here]
 Messy Mod version:[put your Messy Mod version in here]       
 
 ---
-<!-- "- [*]" is correct -->
+<!-- "- [x]" is correct -->
 - [ ] I check this problem isn't reported.
